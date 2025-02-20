@@ -6,6 +6,8 @@
 img {
  max-width: 100%;
  display: block;
+ border-style: none;
+ 
 }
 
 body {
